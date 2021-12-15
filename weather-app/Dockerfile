@@ -13,4 +13,3 @@ COPY --from=source /node/weather-app /node/weather-app
 WORKDIR /node/weather-app
 EXPOSE 3000
 ENTRYPOINT ["./bin/www"]
- 
