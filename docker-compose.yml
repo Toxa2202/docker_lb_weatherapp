@@ -46,3 +46,4 @@ networks:
   frontend:
   weather_app:
     internal: true
+ 
